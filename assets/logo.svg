@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 128" role="img" aria-label="monkeyx">
+  <!-- mark -->
+  <g>
+    <circle cx="52" cy="64" r="20" fill="#E5352B"/>
+    <circle cx="164" cy="64" r="20" fill="#E5352B"/>
+    <circle cx="52" cy="64" r="10" fill="#FAF6F0"/>
+    <circle cx="164" cy="64" r="10" fill="#FAF6F0"/>
+    <circle cx="108" cy="64" r="44" fill="#E5352B"/>
+    <circle cx="94" cy="58" r="16" fill="#FAF6F0"/>
+    <circle cx="122" cy="58" r="16" fill="#FAF6F0"/>
+    <ellipse cx="108" cy="78" rx="24" ry="18" fill="#FAF6F0"/>
+    <circle cx="87" cy="49" r="4.8" fill="#16130F"/>
+    <circle cx="103" cy="49" r="4.8" fill="#16130F"/>
+    <path d="M 98 80 Q 108 88 118 80" fill="none" stroke="#16130F" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- wordmark -->
+  <text x="196" y="84" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="#16130F">monkey<tspan fill="#E5352B">x</tspan></text>
+</svg>
