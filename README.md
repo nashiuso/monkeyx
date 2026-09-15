@@ -109,10 +109,10 @@ npm install
 npm run verify    # typecheck, lint, format, tests, build, playground
 ```
 
-Deeper reading: [architecture](docs/architecture.md) ·
+<!-- Deeper reading: [architecture](docs/architecture.md) ·
 [design system](docs/design-system.md) · [traits](docs/traits.md) ·
 [animation](docs/animation.md) · [decisions](docs/decisions.md) ·
-[release audit](docs/release-audit.md)
+[release audit](docs/release-audit.md) -->
 
 ## contributing
 
@@ -122,4 +122,4 @@ ground rules and the workflow. Security reports go through
 
 ## license
 
-[BSD 3-Clause](LICENSE) © nashiuso
+[BSD 3-Clause](LICENSE) | [`nashiuso`](https://github.com/nashiuso)
